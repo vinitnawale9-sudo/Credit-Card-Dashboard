@@ -10,4 +10,4 @@ Customer segmentation is another key focus area. Revenue is analyzed across educ
 
 Overall, this dashboard demonstrates strong capabilities in data modeling, DAX calculations, and visual storytelling. It serves as an effective tool for monitoring financial performance, understanding customer behavior, and identifying revenue-driving segments, making it well-suited for portfolio presentation, academic projects, or real-world financial analytics use cases.
 
-!image[alt](https://github.com/vinitnawale9-sudo/Credit-Card-Dashboard/blob/3c00cebcbbe31f108e0f388ca5ff16f543e922ce/Credit%20card%20dashboard%20transactions.pdf)
+![image alt](https://github.com/vinitnawale9-sudo/Credit-Card-Dashboard/blob/ac06952037ca8fab8274995b63e95d3236a01f3d/credit%20card%20transaction%20dashboard.png)
